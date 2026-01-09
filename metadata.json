@@ -1,0 +1,5 @@
+{
+  "name": "OdishaGPT",
+  "description": "A local news application for Odisha, India, integrated with an AI assistant for real-time district updates and summaries.",
+  "requestFramePermissions": []
+}
